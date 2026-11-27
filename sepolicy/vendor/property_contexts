@@ -1,12 +1,9 @@
 # Camera
 vendor.camera.                     u:object_r:vendor_camera_prop:s0
 persist.camera.                    u:object_r:vendor_camera_prop:s0
-<<<<<<< HEAD
-=======
 ro.camera.req.fmq.size             u:object_r:vendor_camera_prop:s0
 ro.camera.res.fmq.size             u:object_r:vendor_camera_prop:s0
 sys.camera.miui.apk     		    u:object_r:exported_system_prop:s0
->>>>>>> f3df5fc2 (sweet:  sepolicy: Address cameraserver denial)
 
 # Fingerprint
 persist.vendor.sys.fp.             u:object_r:vendor_fp_prop:s0
