@@ -37,5 +37,5 @@ wifi.interface=wlan0
 
 # Hardware Description
 ro.device.chipset=Snapdragon 732G
-ro.device.display_resolution=1080x2400
+ro.device.display_resolution=6,67" Super AMOLED 1080x2400
 ro.device.colorbody_phone=Glacier Blue/Gradient Bronze/Onyx Gray
